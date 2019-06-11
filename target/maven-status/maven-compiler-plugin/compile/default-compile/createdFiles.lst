@@ -1,0 +1,10 @@
+vehicletracker\io\controller\VehicleController.class
+vehicletracker\io\repository\VehicleRepository.class
+vehicletracker\io\service\VehicleService.class
+vehicletracker\io\SwaggerConfig.class
+vehicletracker\io\entity\Tire.class
+vehicletracker\io\exception\ResourceNotFoundException.class
+vehicletracker\io\exception\BadRequestException.class
+vehicletracker\io\service\VehicleServiceImplementation.class
+vehicletracker\io\Application.class
+vehicletracker\io\entity\Vehicle.class
